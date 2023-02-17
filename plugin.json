@@ -1,0 +1,11 @@
+{
+    "ID":"a4c47318-2476-44c8-a7cf-1331672bc5a3",
+    "ActionKeyword":"ytdl",
+    "Name":"Youtube Downloader",
+    "Description":"Download youtube videos",
+    "Author":"BlueTint",
+    "Version":"0.1",
+    "Language":"Python",
+    "IcoPath": "./images/download.png",
+    "ExecuteFileName":"main.py"
+  }

@@ -1,0 +1,5 @@
+body: 
+  - type: input
+    attributes:
+      name: videos_folder
+      label: "Path to video download folder:"
